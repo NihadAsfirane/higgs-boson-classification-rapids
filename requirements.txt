@@ -1,0 +1,9 @@
+# Requires an NVIDIA GPU with CUDA.
+# Install RAPIDS (cuDF, cuML, CuPy) following https://docs.rapids.ai/install
+# The notebook was run with RAPIDS 24.02.
+xgboost
+scikit-learn
+matplotlib
+seaborn
+numpy
+jupyter
